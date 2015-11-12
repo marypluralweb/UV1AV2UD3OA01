@@ -1,0 +1,57 @@
+{"frames": [
+
+{
+	"filename": "preloaderBarEmpty",
+	"frame": {"x":2,"y":226,"w":355,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":355,"h":26},
+	"sourceSize": {"w":355,"h":26},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "preloaderBarFull",
+	"frame": {"x":2,"y":254,"w":355,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":355,"h":26},
+	"sourceSize": {"w":355,"h":26},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buttonResumeGame",
+	"frame": {"x":2,"y":2,"w":213,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":222},
+	"sourceSize": {"w":213,"h":222},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "loadingBackground",
+	"frame": {"x":2,"y":282,"w":423,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":423,"h":186},
+	"sourceSize": {"w":423,"h":186},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "loadingText",
+	"frame": {"x":217,"y":2,"w":223,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":61},
+	"sourceSize": {"w":223,"h":61},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "preloader",
+	"format": "RGBA8888",
+	"size": {"w":442,"h":470},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d326e529ef7594138441b7b383d4b6a3:1881a6aefab19294fb5fe50543d41c55:b6cdaa10a06bef6f46bf15cd0aaf732b$"
+}
+}

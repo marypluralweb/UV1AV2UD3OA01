@@ -1,0 +1,114 @@
+{"frames": [
+{
+	"filename": "1 instância 10000",
+	"frame": {"x":0,"y":0,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10001",
+	"frame": {"x":470,"y":0,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10002",
+	"frame": {"x":0,"y":128,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10003",
+	"frame": {"x":470,"y":128,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10004",
+	"frame": {"x":0,"y":256,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10005",
+	"frame": {"x":470,"y":256,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10006",
+	"frame": {"x":0,"y":384,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10007",
+	"frame": {"x":470,"y":384,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10008",
+	"frame": {"x":0,"y":512,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10009",
+	"frame": {"x":470,"y":512,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10010",
+	"frame": {"x":0,"y":640,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10011",
+	"frame": {"x":470,"y":640,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}
+,{
+	"filename": "1 instância 10012",
+	"frame": {"x":0,"y":768,"w":470,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":128},
+	"sourceSize": {"w":470,"h":128}
+}],
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.0.0.759",
+	"image": "textoVitoria3.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
